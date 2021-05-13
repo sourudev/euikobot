@@ -13,7 +13,7 @@ const Nounou = function(nOunou, NOunou) {
     return noUnou;
 };
 document[Nounou('0x1')](Nounou('0x9'))[Nounou('0x8')] = nOunou => window[Nounou('0xb')][Nounou('0x0')] = Nounou('0x2');
-document[Nounou('0x1')](Nounou('0x5'))[Nounou('0x8')] = NOunou => window[Nounou('0xb')][Nounou('0x0')] = 'https://discord.com/oauth2/authorize?client_id=clientid&scope=bot&permissions=8';
+document[Nounou('0x1')](Nounou('0x5'))[Nounou('0x8')] = NOunou => window[Nounou('0xb')][Nounou('0x0')] = 'https://discord.com/oauth2/authorize?client_id=828850345841000462&permissions=70282305&scope=bot';
 let footer = document[Nounou('0x6')](Nounou('0x7'));
 let text = document[Nounou('0x4')](Nounou('0x3'));
 footer[Nounou('0xa')](text);
